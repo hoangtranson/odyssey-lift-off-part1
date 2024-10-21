@@ -12,7 +12,8 @@
     "@graphql-tools/mock": "^9.0.5",
     "@graphql-tools/schema": "^10.0.7",
     "graphql": "^16.9.0",
-    "graphql-tag": "^2.12.6"
+    "graphql-tag": "^2.12.6",
+    "node-fetch": "^3.3.2"
   },
   "devDependencies": {
     "dotenv": "^16.0.0",
