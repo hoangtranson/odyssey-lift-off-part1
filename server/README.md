@@ -13,3 +13,9 @@ npm install @apollo/server graphql graphql-tag
 ```
 npm install @graphql-tools/mock @graphql-tools/schema
 ```
+
+Implementing our RESTDataSource
+
+```
+npm install @apollo/datasource-rest
+```
